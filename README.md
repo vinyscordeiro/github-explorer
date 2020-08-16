@@ -6,5 +6,8 @@ It´s an aplication that uses a user friendly interface to find repositories in 
 
 <h1> How To Install </h1>
 
-Select the repository and type the command yarn to install the dependecies. After the end the of the installation, you can type the command yarn start. Ready, you can use it now.
+Select the repository and type the command yarn to install the dependecies. After the end the of the installation, you can type the command yarn start. Ready, you can use it now!
 
+You can see the builded version in
+
+https://githubexplorer.develitt.com
